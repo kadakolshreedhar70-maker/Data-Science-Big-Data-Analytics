@@ -1,22 +1,22 @@
-# Data-Science-Big-Data-Analytics
+# Data-Science-Big-Data-Analysis
 
-`Data-Science-Big-Data-Analytics` is a Python-based data engineering and analytics project that collects Google Trends signals for fashion and travel keywords, transforms the data into a small lakehouse-style layout, and serves the results through a Streamlit dashboard. The working application inside this repository is named `TrendVoyage`.
+`Data-Science-Big-Data-Analysis` is a Python-based data engineering and analytics project that collects Google Trends signals for fashion and travel keywords, transforms the data into a small lakehouse-style layout, and serves the results through a Streamlit dashboard. The working application inside this repository is named `TrendVoyage`.
 
 ## Team Member Information
 
-Replace the sample rows below with your actual team details before publishing or submitting the repository.
+Team information below is taken from the submitted project report. GitHub usernames were not listed in the report.
 
 | Team Member Name | Student ID / Roll No. | GitHub Username | Role / Contribution |
 | --- | --- | --- | --- |
-| Member 1 | Add here | Add here | Project coordination and integration |
-| Member 2 | Add here | Add here | Data ingestion and preprocessing |
-| Member 3 | Add here | Add here | Spark analytics and forecasting |
-| Member 4 | Add here | Add here | Dashboard development and documentation |
+| SHREEDHAR M KADAKOL | 24bds076 | Not listed in report | Led the overall project planning, coordinated end-to-end integration, selected the initial trend keywords, helped shape the project idea, and aligned the collected data with the final dashboard requirements and report structure. |
+| RAHUL PATIL | 24bds064 | Not listed in report | Worked on the Spark-friendly data pipeline, parquet-based storage design, batch processing flow, and generation of structured gold summary tables for downstream analytics. |
+| SHRAWAN TIBAREWAL | 24bds075 | Not listed in report | Focused on forecasting logic, analytical interpretation of trend behavior, ranking-oriented outputs, and validation of projected trend movement in the later stages of the workflow. |
+| ASMIT CHAKRABORTHY | 24bds006 | Not listed in report | Worked on the Streamlit dashboard, interface layout, chart arrangement, user flow, and integration of processed analytical outputs into the final presentation layer. |
 
 ## Repository Structure
 
 ```text
-Data-Science-Big-Data-Analytics/
+Data-Science-Big-Data-Analysis/
 |-- ai_engines/
 |   `-- demand_forecaster.py
 |-- config/
@@ -47,8 +47,8 @@ Data-Science-Big-Data-Analytics/
 ### 1. Clone the repository
 
 ```powershell
-git clone https://github.com/kadakolshreedhar70-maker/Data-Science-Big-Data-Analytics.git
-cd Data-Science-Big-Data-Analytics
+git clone https://github.com/kadakolshreedhar70-maker/Data-Science-Big-Data-Analysis.git
+cd Data-Science-Big-Data-Analysis
 ```
 
 If the repository is created under a different GitHub account, replace the URL with the final repository URL.
