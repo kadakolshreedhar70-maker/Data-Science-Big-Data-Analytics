@@ -4,14 +4,14 @@
 
 ## Team Member Information
 
-Team information below is taken from the submitted project report. GitHub usernames were not listed in the report.
+Team information below is taken from the submitted project report, with GitHub usernames filled in where available.
 
 | Team Member Name | Student ID / Roll No. | GitHub Username | Role / Contribution |
 | --- | --- | --- | --- |
-| SHREEDHAR M KADAKOL | 24bds076 | Not listed in report | Led the overall project planning, coordinated end-to-end integration, selected the initial trend keywords, helped shape the project idea, and aligned the collected data with the final dashboard requirements and report structure. |
-| RAHUL PATIL | 24bds064 | Not listed in report | Worked on the Spark-friendly data pipeline, parquet-based storage design, batch processing flow, and generation of structured gold summary tables for downstream analytics. |
-| SHRAWAN TIBAREWAL | 24bds075 | Not listed in report | Focused on forecasting logic, analytical interpretation of trend behavior, ranking-oriented outputs, and validation of projected trend movement in the later stages of the workflow. |
-| ASMIT CHAKRABORTHY | 24bds006 | Not listed in report | Worked on the Streamlit dashboard, interface layout, chart arrangement, user flow, and integration of processed analytical outputs into the final presentation layer. |
+| SHREEDHAR M KADAKOL | 24bds076 | kadakolshreedhar70-maker | Led the overall project planning, coordinated end-to-end integration, selected the initial trend keywords, helped shape the project idea, and aligned the collected data with the final dashboard requirements and report structure. |
+| RAHUL PATIL | 24bds064 |  | Worked on the Spark-friendly data pipeline, parquet-based storage design, batch processing flow, and generation of structured gold summary tables for downstream analytics. |
+| SHRAWAN TIBAREWAL | 24bds075 |  | Focused on forecasting logic, analytical interpretation of trend behavior, ranking-oriented outputs, and validation of projected trend movement in the later stages of the workflow. |
+| ASMIT CHAKRABORTHY | 24bds006 |  | Worked on the Streamlit dashboard, interface layout, chart arrangement, user flow, and integration of processed analytical outputs into the final presentation layer. |
 
 ## Repository Structure
 
