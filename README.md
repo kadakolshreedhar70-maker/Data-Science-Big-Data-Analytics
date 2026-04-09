@@ -4,8 +4,6 @@
 
 ## Team Member Information
 
-Team information below is taken from the submitted project report, with GitHub usernames filled in where available.
-
 | Team Member Name | Student ID / Roll No. | GitHub Username | Role / Contribution |
 | --- | --- | --- | --- |
 | SHREEDHAR M KADAKOL | 24bds076 | kadakolshreedhar70-maker | Led the overall project planning, coordinated end-to-end integration, selected the initial trend keywords, helped shape the project idea, and aligned the collected data with the final dashboard requirements and report structure. |
