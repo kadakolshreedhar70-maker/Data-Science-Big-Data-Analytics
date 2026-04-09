@@ -1,6 +1,6 @@
-# Data-Science-Big-Data-Analysis
+# TrendVoyage
 
-`Data-Science-Big-Data-Analysis` is a Python-based data engineering and analytics project that collects Google Trends signals for fashion and travel keywords, transforms the data into a small lakehouse-style layout, and serves the results through a Streamlit dashboard. The working application inside this repository is named `TrendVoyage`.
+`TrendVoyage` is a Python-based data engineering and analytics project that collects Google Trends signals for fashion and travel keywords, transforms the data into a small lakehouse-style layout, and serves the results through a Streamlit dashboard.
 
 ## Team Member Information
 
@@ -14,7 +14,7 @@
 ## Repository Structure
 
 ```text
-Data-Science-Big-Data-Analysis/
+Data-Science-Big-Data-Analytics/
 |-- ai_engines/
 |   `-- demand_forecaster.py
 |-- config/
@@ -45,11 +45,9 @@ Data-Science-Big-Data-Analysis/
 ### 1. Clone the repository
 
 ```powershell
-git clone https://github.com/kadakolshreedhar70-maker/Data-Science-Big-Data-Analysis.git
-cd Data-Science-Big-Data-Analysis
+git clone https://github.com/kadakolshreedhar70-maker/Data-Science-Big-Data-Analytics.git
+cd Data-Science-Big-Data-Analytics
 ```
-
-If the repository is created under a different GitHub account, replace the URL with the final repository URL.
 
 ### 2. Create and activate a virtual environment
 
